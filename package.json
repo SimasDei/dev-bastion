@@ -1,0 +1,34 @@
+{
+  "name": "dev-bastion",
+  "version": "1.0.0",
+  "description": "# Project made using the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimasDei/dev-bastion.git"
+  },
+  "author": "Simas Dei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimasDei/dev-bastion/issues"
+  },
+  "homepage": "https://github.com/SimasDei/dev-bastion#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.1.0",
+    "express": "^4.17.0",
+    "express-validator": "^5.3.1",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.10",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.19.0"
+  }
+}
