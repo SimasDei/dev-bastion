@@ -1,6 +1,6 @@
-# DEV BASTION
+## DEV BASTION
 
-# Project made using the MERN stack
+### Project made using the MERN stack
 
 Mongo DB,
 Express Js,
